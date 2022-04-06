@@ -20,35 +20,11 @@ while result == None:
         
 
 
-        #     print("download in progress")
-        # else: print("download completed")
+        
+     
 
     except:
         pass
 
 
 
-# result = None
-# while result ==None:
-#     try:
-
-
-
-# from pytube import YouTube
-
-
-# video = YouTube(url)
-# print(video)
-# def useRegex(video):
-#     pattern = re.compile(r"https://www\\.youtube\\.com/watch\\?v=m8sjsUrJYSM")
-#     return pattern.match(video, re.IGNORECASE)
-
-
-# if url == 
-
-# def useRegex(url):
-#     pattern = re.compile(r"https://www\\.youtube\\.com/watch\\?v=m8sjsUrJYSM")
-#     return pattern.match(url, re.IGNORECASE)
-# print(useRegex('https://www.youtube.com/watch?v=m8sjsUrJYSM'))
-# print(video.title)
-# print(video.thumbnail_url)
